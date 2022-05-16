@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Contract Killer</title>
+  <release-date>May 19th, 2022</release-date>
+  <website>https://twitter.com/contractpuncher</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/1588250/Contract_Killer/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>11.99</value>
+    </price>
+  </prices>
+
+  <description>Contract Killer is a 2.5D co-op beat 'em up inspired by many retro arcade games, where you play as a group of writing utensils with a mission to defeat evil contracts and other corporate 
+  goons. When the legendary Contract Killer, Erasir was defeated, the world was overrun by contracts, binding The Utensils to their legal demise. It's up to Leadhead and his crew to traverse different regions and 
+  defeat the bosses that rule over them in order to avenge their master, and bring an end to the contract calamity.</description>
+
+  <history>The initial concept of Contract Killer was created by a team of 4 university (UCSD) students for a week-long game jam for the theme: “I didn’t sign up for this.” 
+  The game takes inspiration from gameplay mechanics of traditional arcade beat ‘em ups like Streets of Rage, aesthetics from the Paper Mario franchise, and the goofiness of Castle Crashers and Cuphead. 
+  The game jam project was so fun to work on that the team wanted to expand the game into a full release including new characters, bosses, full campaign, PvP, and an endless Horde mode, all with a focus on couch co-op.</history>
+
+  <features>
+    <feature>Up to 4 player co-op across all modes</feature>
+    <feature>Unlock new characters throughout the campaign</feature>
+    <feature>Experience the Story of Leadhead and his crew and defeat epic bosses</feature>
+    <feature>Fight endless waves of contracts in Horde Mode with the help of various power-ups</feature>
+    <feature>Challenge your friends in player versus player Battle Mode to test your skills</feature>
+    <feature>Use an extensive kit of attacks for all your contract-killing goodness</feature>
+    <feature>Master each character’s jabs, claps, grabs, ground-pounds, dashes, and projectiles</feature>
+    <feature>Take on various corporate lackeys each with distinct behaviors and weaknesses to learn</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Gameplay Trailer</name>
+      <youtube>
+        AwDItPh-uIg
+      </youtube>
+
+      <name>Reveal Trailer</name>
+      <youtube>
+        cET6Q6a-BP4
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      1588250
+    </steam>
+  </widgets>
+
+
+  <awards>
+    <award>
+      <description>SGDA Summit 2021 Showcase Winner</description>
+      <info>A mini-grant was awarded May 30th, 2021 for an early look showcase for Contract Killer.</info>
+    </award>
+  </awards>
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <abouts>
+    <about>
+      <title>Paperboy Games</title>
+      <description>Paperboy Games is a small indie studio composed of passionate developers who started to work together in 2021.</description>
+      <link>https://twitter.com/contractpuncher</link>
+    </about>
+  </abouts>
+
+  <credits>
+    <credit>
+      <person>Alex Garza</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Aiden Jauffret</person>
+      <role>Co-Founder, Artist/Composer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Matthew Lawrence</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Leon Yang</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Email</name>
+      <!-- Pick one: -->
+      <mail>contractpuncher@gmail.com</mail>
+    </contact>
+
+    <contact>
+      <name>Twitter</name>
+      <!-- Pick one: -->
+      <mail>https://twitter.com/contractpuncher</mail>
+    </contact>
+  </contacts>
+</product>

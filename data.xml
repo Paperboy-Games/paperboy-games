@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Paperboy Games</title>
+  <based-in>California, USA</based-in>
+  <founding-date>2021</founding-date>
+  <website>https://twitter.com/contractpuncher</website>
+  <press-contact>
+    <!-- Mail address -->
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone></phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+    </line>
+    <line>
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/contractpuncher
+      </link>
+    </social>
+  </socials>
+
+  <description>Paperboy Games is a small indie studio composed of passionate developers who started to work together in 2021.</description>
+
+  <!-- Choose between a single block: -->
+  <history>Paperboy Games is a group of 4 indie game developers who met at University of California, San Diego. 
+  They met at their university's game development club, but it wasn't until a last minute game jam project in January 2021 that they actually began working together.
+  The team is currentlty composed of Alex Garza, Aiden Jauffret, Matthew Lawrence, and Leon Yang.</history>
+
+  <awards>
+    <award>
+      <description>SGDA Summit 2021 Showcase Winner</description>
+      <info>A mini-grant was awarded May 30th, 2021 for an early look showcase for Contract Killer.</info>
+    </award>
+  </awards>
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Alex Garza</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Aiden Jauffret</person>
+      <role>Co-Founder, Artist/Composer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Matthew Lawrence</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+
+    <credit>
+      <person>Leon Yang</person>
+      <role>Co-Founder, Programmer</role>
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Email</name>
+      <!-- Pick one: -->
+      <mail>contractpuncher@gmail.com</mail>
+    </contact>
+
+    <contact>
+      <name>Twitter</name>
+      <!-- Pick one: -->
+      <mail>https://twitter.com/contractpuncher</mail>
+    </contact>
+  </contacts>
+</company>
